@@ -1,6 +1,6 @@
 ﻿
 Console.Clear();
-string[] ArrayA = {"Hello", "2", "world", ":-)","ghgh","hg"};
+string[] ArrayA = {"Hello", "2", "world", ":-)"};
 string[] Find(string[] ArrayA)
 {
     string[] ArrayB = new string[0];
